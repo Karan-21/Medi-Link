@@ -1,4 +1,4 @@
-# EMedicine_API
+# Medi-Link
 
 Hello, I'm Karan, let me tell you about the project.
 An e-commerce project called Medi-Link.
